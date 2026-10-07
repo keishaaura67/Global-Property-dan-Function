@@ -1,0 +1,1 @@
+# Global-Property-dan-Function
